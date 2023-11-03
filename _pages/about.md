@@ -14,6 +14,6 @@ My research interest includes deep learning, graph generation and generative mod
 
 You can find my CV here: [Mingyang Wu's Curriculum Vitae](../assets/MingyangWu_cv.pdf)
 
-##News
+## News
 * Our paper ["EDGE++: Improved Training and Sampling of EDGE"](https://arxiv.org/abs/2310.14441) has been accepted by NeurIPS 2023 GLFrontiers, Diffusion Models and SyntheticData4ML Workshop!
 
