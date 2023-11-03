@@ -19,3 +19,6 @@ You can find my CV here: [Mingyang Wu's Curriculum Vitae](../assets/MingyangWu_c
 ## News
 * Our paper ["EDGE++: Improved Training and Sampling of EDGE"](https://arxiv.org/abs/2310.14441) has been accepted by NeurIPS 2023 GLFrontiers, Diffusion Models and SyntheticData4ML Workshop!
 
+##Publications
+* M Wu*, X Chen*, L Liu (2023) ["EDGE++: Improved Training and Sampling of EDGE"](https://arxiv.org/abs/2310.14441)
+
