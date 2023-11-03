@@ -11,3 +11,5 @@ redirect_from:
 I am a second year master student from department of Computer Science, Tufts University. I am very fortunate to be advised by [Prof.Li-Ping Liu](https://www.eecs.tufts.edu/~liulp/) of [ML Research Group](https://www.cs.tufts.edu/research/ml/) at Tufts University.
 
 My research interest includes deep learning, graph generation and generative model.
+
+You can find my CV here: [Mingyang Wu's Curriculum Vitae](../assets/MingyangWu_cv.pdf)
