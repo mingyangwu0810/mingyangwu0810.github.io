@@ -13,3 +13,6 @@ I am a second year master student from department of Computer Science, Tufts Uni
 My research interest includes deep learning, graph generation and generative model.
 
 You can find my CV here: [Mingyang Wu's Curriculum Vitae](../assets/MingyangWu_cv.pdf)
+
+##News
+
