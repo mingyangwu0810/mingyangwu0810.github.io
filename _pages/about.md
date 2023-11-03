@@ -4,7 +4,6 @@ title: "Mingyang Wu (吴明旸)"
 excerpt: "About me"
 author_profile: true
 layout: archive
-permalink: /archive-layout-with-content/
 redirect_from: 
   - /about/
   - /about.html
